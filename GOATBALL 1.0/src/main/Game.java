@@ -1,13 +1,4 @@
 package main;
-
-/*****************************************************************************
- * Name: Monkey Run!
- * Authors: Ivy, Tharun, Shubham
- * Date: November 21, 2022
- * Purpose: To provide a fun, easy-going game to play in their free time.
- * 			The monkey has to defeat the zookeepers and robots in all four
- * 			levels to escape to the wilderness.
- ******************************************************************************/
 import javax.swing.*;
 
 import player.Player1;
