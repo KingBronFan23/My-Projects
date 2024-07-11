@@ -2,6 +2,8 @@ All Projects - Using Java, JavaScript, HTML, CSS, and PHP
 
 TutorMD (Website) - I developed a website in which tutors can log in, create a profile with a profile picture and description, and choose which courses they can tutor such that a student can log on to find an appropriate tutor for their needs.
 
+Student Timetable Project- I’m developing an algorithm to assign all the students in my school a timetable of courses based on their requests! *Java*
+
 Personal Profile (Website) *In Progress* - I developed a website in which my portfolio, projects, about me, and downloadable resume are present in a visually appealing format for future employers to see! *see link at top*
 
 Monkey Run (game) - A game in which you control a determined monkey who attempts to reach forested freedom by running away from his zoo captors! With 4 levels of increasing difficulty, waves of zookeepers will try to stop you, can you be free or will you be caught?
